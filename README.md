@@ -1,4 +1,4 @@
-# restful-api
+# Restful-api
 Representational state transfer (REST) is a software architectural style that describes a uniform interface between physically separate components, often across the internet in a client-server architecture.
 
 i.e is a set of rules that is used to build client-server architecture and enables us firepower CRUD web applications. 
